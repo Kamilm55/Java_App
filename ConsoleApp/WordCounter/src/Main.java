@@ -4,9 +4,6 @@ import FileOperations.FileWriter;
 import InputOperations.InputUser;
 
 import java.io.File;
-import java.util.ArrayList;
-import java.util.LinkedHashSet;
-import java.util.List;
 import java.util.Set;
 
 //1.ask user , name of the file , if it does exist continue whether create one
