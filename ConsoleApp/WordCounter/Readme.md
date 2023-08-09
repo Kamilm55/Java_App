@@ -1,3 +1,4 @@
+Word Counter app:
 1. Ask the user to enter the name of the file they want to create.
 
 2. Create the file with the provided name if it doesn't exist.

@@ -1,0 +1,6 @@
+Word Frequency (It is not case-sensitive)
+<------------------>
+hello: 2
+hi: 5
+sa: 4
+as: 1
